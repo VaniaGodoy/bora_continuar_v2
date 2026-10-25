@@ -1,8 +1,12 @@
 # Demonstração do App
 
-![TelaApp](imagens/imagemApp.jpeg)
+### Aplicativo em funcionamento
 
-![TelaBanco](imagens/imagemBanco.png)
+<img src="imagens/imagemApp.jpeg" alt="Tela do aplicativo Bora Continuar" width="300">
+
+### Dados no Firebase Cloud Firestore
+
+<img src="imagens/imagemBanco.png" alt="Dados armazenados no Firestore" width="500">
 
 # Bora Continuar 
 
