@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "681950863250",
+    "project_id": "bora-continuar",
+    "storage_bucket": "bora-continuar.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681950863250:android:912a9315ff156f6a4dab4b",
+        "android_client_info": {
+          "package_name": "br.edu.ifsp.bora_continuar_v2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnXJOxPxnzbgEkv3_D5F0jtkYdD0Hcfig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
